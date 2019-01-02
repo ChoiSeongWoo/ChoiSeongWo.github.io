@@ -104,12 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "최성우 Choi SeongWoo"
+  name             : "Choi SeongWoo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist. 
-  Business Analyst."
+  bio              : "Data Scientist. Business Analyst."
   location         : "Seoul, Korea"
-  email            : hahacsw@gmail.com
+  #email            : hahacsw@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
