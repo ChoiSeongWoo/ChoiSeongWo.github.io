@@ -62,9 +62,9 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : google # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Choi SeongWoo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist. Business Analyst."
-  location         : "Seoul, Korea"
+  bio              : "Data Scientist. Business Analyst. // Machine Learning. Deep Learning. EDA. Mathematical Modeling. // R, Python, SQL"
+  location         : "Gangnam, Seoul, Korea"
   #email            : hahacsw@gmail.com
   links:
     - label: "Email"
