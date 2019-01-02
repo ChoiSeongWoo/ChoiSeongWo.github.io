@@ -1,5 +1,5 @@
 ---
-title: "깃허브 "
+title: "Jump to Github Pages"
 date: 2019-01-02 23:30:00 -0400
 categories: 생각 시작
 ---
