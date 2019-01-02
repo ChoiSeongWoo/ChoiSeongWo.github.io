@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "타이틀 테스트"
+title                    : "Roy_Choi's Blog"
 title_separator          : "-"
 name                     : "최성우 (Choi Seong Woo)"
-description              : "An amazing website."
+description              : "깃허브 페이지 테스트(기획중)"
 url                      : "https://choiseongwoo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -52,8 +52,8 @@ staticman:
   transforms:
     email                : # "md5"
   generatedFields:
-    date:
-      type               : # "date"
+    date: "2019-01-02"
+      type               : "date"
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
