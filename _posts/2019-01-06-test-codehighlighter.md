@@ -24,12 +24,14 @@ categories: 블로그
 
 
 Embed할 스크립트는 다음의 형식을 띄고있다.<br>
-```<script src="https://gist.github.com/YOURID/*********.js"></script>```
+```
+<script src="https://gist.github.com/YOURID/*********.js"></script>
+```
 
 **결과**
 <script src="https://gist.github.com/ChoiSeongWoo/6b00e535009963b6d24d84ac79825979.js"></script>
 
-
+<br><br><br>
 
 추가(Github Pages용)
 ---
