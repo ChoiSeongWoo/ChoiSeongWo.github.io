@@ -50,10 +50,11 @@ xml을 지원하는 다른 플랫폼에서 코드를 적을 일이 생긴다면 
 ` ~~~python
 import numpy
 print("hello world")
-~~~ `
+~~~`
 
 
 **결과**
+
 ~~~python
 import numpy
 print("hello world")
