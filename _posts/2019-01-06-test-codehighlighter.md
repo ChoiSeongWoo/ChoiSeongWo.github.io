@@ -24,7 +24,7 @@ categories: 블로그
 
 
 
-Embed할 스크립트는 다음의 형식을 띄고있다.
+Embed할 스크립트는 다음의 형식을 띄고있다.<br>
 ```<script src="https://gist.github.com/YOURID/*****************.js"></script>```
 
 **결과**
