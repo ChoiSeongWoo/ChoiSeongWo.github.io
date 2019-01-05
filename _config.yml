@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Choi SeongWoo"
   avatar           : "ChoiSeongWoo.github.io/1.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist. Business Analyst. // Machine Learning. Deep Learning. EDA. Mathematical Modeling. // R, Python, SQL"
+  bio              : "Business Analyst. // Machine Learning. Deep Learning. EDA. Mathematical Modeling. // R, Python, SQL, Looker"
   location         : "Gangnam, Seoul, Korea"
   #email            : hahacsw@gmail.com
   links:
