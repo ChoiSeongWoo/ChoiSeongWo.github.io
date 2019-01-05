@@ -38,10 +38,9 @@ Github Pages에 Rouge라는 Highlighter가 있다는 것을 알게 되었고,
 위의 방법은 필요가 없다는 것.
 
 Gist에 들어가서 Embeding 코드를 가져올 필요 없이 그냥 간단하게 다음의 방법을 사용하면 된다.
-``` ~~~python
+` ~~~python
 import numpy
-print("hello world")~~~ ```
-
+print("hello world")~~~ `
 
 **결과**
 ~~~python
