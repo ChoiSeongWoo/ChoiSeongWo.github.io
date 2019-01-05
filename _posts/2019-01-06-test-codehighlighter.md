@@ -42,7 +42,9 @@ Gist에 들어가서 Embeding 코드를 가져올 필요 없이 그냥 간단하
 import numpy
 print("hello world")~~~ `
 
+
 **결과**
 ~~~python
 import numpy
-print("hello world")~~~
+print("hello world")
+~~~
