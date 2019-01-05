@@ -5,7 +5,7 @@ categories: 블로그
 ---
 
 
-코드 하이라이터 임베딩 방법 확인
+코드 하이라이터 임베딩 방법 확인(범용)
 ---
 
 블로그에 소스코드를 올리는 방법에 대해 잠깐 알아보았다.
@@ -23,7 +23,6 @@ categories: 블로그
 
 
 
-
 Embed할 스크립트는 다음의 형식을 띄고있다.<br>
 ```<script src="https://gist.github.com/YOURID/*********.js"></script>```
 
@@ -31,16 +30,27 @@ Embed할 스크립트는 다음의 형식을 띄고있다.<br>
 <script src="https://gist.github.com/ChoiSeongWoo/6b00e535009963b6d24d84ac79825979.js"></script>
 
 
-추가
+
+추가(Github Pages용)
 ---
 Github Pages에 Rouge라는 Highlighter가 있다는 것을 알게 되었고, 
-내가 지금 사용하고 있는 Jekyll 테마에 이미 적용되어 있다는 것을 확인했다..
-위의 방법은 필요가 없다는 것.
+내가 지금 사용하고 있는 Jekyll 테마에 이미 구현되어 있다는 것을 확인했다..
+위의 방법은 하나도 필요가 없다는 것.
 
-Gist에 들어가서 Embeding 코드를 가져올 필요 없이 그냥 간단하게 다음의 방법을 사용하면 된다.
+xml을 지원하는 다른 플랫폼에서 코드를 적을 일이 생긴다면 위의 방법을 사용하고,
+그렇지 않다면 아래의 Rouge 방법을 사용하자.
+
+
+코드 Highlighting 방법은 다음과 같다.
+
+1. 첫 째 줄에 `물결 3개+사용언어`
+2. 중간 줄에 `코드 내용`
+3. 마지막줄에 `물결 3 개`로 마무리
+
 ` ~~~python
 import numpy
-print("hello world")~~~ `
+print("hello world")
+~~~ `
 
 
 **결과**
@@ -48,3 +58,9 @@ print("hello world")~~~ `
 import numpy
 print("hello world")
 ~~~
+
+
+
+훨씬 편하다.
+지금이라도 알았으면 됐지 뭐.
+그나마 Github Pages를 사용하는 의미를 찾은 듯 하다.
