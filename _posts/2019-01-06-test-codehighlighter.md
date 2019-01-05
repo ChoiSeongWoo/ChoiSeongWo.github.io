@@ -47,19 +47,20 @@ xml을 지원하는 다른 플랫폼에서 코드를 적을 일이 생긴다면 
 2. 중간 줄에 `코드 내용`
 3. 마지막줄에 `물결 3 개`로 마무리
 
-` ~~~python
+``` 
+~~~python
 import numpy
 print("hello world")
-~~~`
-
-
+~~~
+```
+<br><br>
 **결과**
 
 ~~~python
 import numpy
 print("hello world")
 ~~~
-
+<br><br><br>
 
 
 훨씬 편하다.
