@@ -9,7 +9,7 @@ categories: 블로그
 ---
 
 블로그에 소스코드를 올리는 방법에 대해 잠깐 알아보았다.
-몇가지 방법이 있는 것 같은데, 그 중 가장 쉬운 방법은 gist(https://gist.github.com/)를 사용하는 것.
+몇가지 방법이 있는 것 같은데, 그 중 가장 쉬운 방법은 [gist](https://gist.github.com/)를 사용하는 것.
 (광주과학기술원 말하는 거 아님.)
 
 사용법은 매우 간단하다.<br>
@@ -35,7 +35,7 @@ Embed할 스크립트는 다음의 형식을 띄고있다.<br>
 
 추가(Github Pages용)
 ---
-Github Pages에 Rouge라는 Highlighter가 있다는 것을 알게 되었고, 
+Github Pages에 Rouge라는 Highlighter가 있다는 것을 알게 되었고,
 내가 지금 사용하고 있는 Jekyll 테마에 이미 구현되어 있다는 것을 확인했다..
 위의 방법은 하나도 필요가 없다는 것.
 
@@ -49,7 +49,7 @@ xml을 지원하는 다른 플랫폼에서 코드를 적을 일이 생긴다면 
 2. 중간 줄에 `코드 내용`
 3. 마지막줄에 `물결 3 개`로 마무리
 
-``` 
+```
 ~~~python
 import numpy
 print("hello world")
