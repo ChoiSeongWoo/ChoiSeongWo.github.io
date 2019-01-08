@@ -3,7 +3,11 @@
 from 2019-01-05  
 ChoiSeongWoo.
 
+<<<<<<< HEAD
 last modified : 2019-01-08 {: .text-right}
+=======
+last modified : 2019-01-08
+>>>>>>> 16f0051c86f044cf046ff103c404e40fdeff5033
 <br>
 
 몇 가지 카테고리 별 블로깅 사이트를 구축하면서 Git과 Github 사용(특히 Github Pages)에 관하여 적응하도록 한다. 또한 현재 작업물을 효율적으로 관리할 수 있는 방안을 모색하면서 개인 포트폴리오로 구성할 수 있도록 한다.
