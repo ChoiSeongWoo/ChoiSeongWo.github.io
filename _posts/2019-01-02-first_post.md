@@ -1,7 +1,7 @@
 ---
 title: "Jump to Github Pages"
 date: 2019-01-02 23:30:00 -0400
-categories: 블로그
+categories: blog
 ---
 
 
