@@ -1,7 +1,7 @@
 ---
 title: "190106.TEST-코드하이라이터"
 date: 2019-01-06 01:11:00 -0400
-categories: 블로그
+categories: blog
 ---
 
 
