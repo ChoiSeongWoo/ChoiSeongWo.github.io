@@ -1,7 +1,7 @@
 # Site navigation links
+main:
+  - title: About
+    url: /about/
 
-- title: About
-  url: /about/
-
-- title: Blog구성
-  url: /blog/
+  - title: Blog구성
+    url: /blog/
