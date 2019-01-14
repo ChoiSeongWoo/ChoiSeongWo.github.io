@@ -1,5 +1,5 @@
 ---
-title: "Jump to Github Pages"
+title: "Github Pages 시작하기"
 date: 2019-01-02 23:30:00 -0400
 categories: blog
 ---
