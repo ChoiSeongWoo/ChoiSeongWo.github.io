@@ -1,5 +1,5 @@
 ---
-title: "190105.블로그update"
+title: "블로그 업데이트"
 date: 2019-01-05 14:31:00 -0400
 categories: blog
 ---
